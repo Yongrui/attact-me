@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "s120die",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.08333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "9dcd42fc-c325-4624-94e2-7eca1010a2a8"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "831ffa2f-ada2-4398-b177-f56f21d5807d"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "06af50bc-1490-4253-ada2-84ea08cf08a6"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "5939d8fd-032d-44cb-a415-03302dabaf63"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "32cd81da-dc59-4c41-bb87-0a05a5c11f62"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
